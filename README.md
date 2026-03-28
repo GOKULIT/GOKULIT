@@ -4,6 +4,8 @@ Full Stack Developer focused on AI, SaaS & Automation ⚡
 
 Full Stack Developer passionate about building AI-powered SaaS tools.
 
+🚀 Turning ideas into real-world AI products
+
 What I Do
 🔹 Build AI-based web applications  
 🔹 Develop SaaS products  
