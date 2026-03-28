@@ -16,7 +16,8 @@ Projects
 🔹 Botza – AI Chatbot Platform  
 🔹 Expense Tracker App  
 
-Tech Stack 
+Tech Stack  
+
 Python | React | JavaScript | HTML | CSS | FastAPI | Firebase | APIs  
 
 Live Projects
