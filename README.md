@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Gokul 👋
 
-<!--
-**GOKULIT/GOKULIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on AI, SaaS & Automation ⚡
 
-Here are some ideas to get you started:
+Full Stack Developer passionate about building AI-powered SaaS tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Do
+🔹 Build AI-based web applications  
+🔹 Develop SaaS products  
+🔹 Create automation tools  
+
+Projects
+🔹 Burnex – AI Diet Planner & Food Tracker  
+🔹 Botza – AI Chatbot Platform  
+🔹 Expense Tracker App  
+
+Tech Stack
+Python | React | JavaScript | HTML | CSS | FastAPI | Firebase | APIs  
+
+Live Projects
+https://burnex.levia.in  
+https://botza.levia.in  
+
+Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/gokul-s-1a6201385/)
