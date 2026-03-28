@@ -20,8 +20,11 @@ Tech Stack
 Python | React | JavaScript | HTML | CSS | FastAPI | Firebase | APIs  
 
 Live Projects
-https://burnex.levia.in  
-https://botza.levia.in  
+
+🔹 https://burnex.levia.in  
+
+🔹 https://botza.levia.in  
 
 Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/gokul-s-1a6201385/)
+
+🔹 LinkedIn: (https://www.linkedin.com/in/gokul-s-1a6201385/)
