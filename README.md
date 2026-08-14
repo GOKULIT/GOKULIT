@@ -1,62 +1,110 @@
-# 👋 Hey, I'm **Gokul S**
+<!-- ===================== HERO ===================== -->
 
-### 💻 Senior Full-Stack Developer · 🤖 AI Enthusiast · ⚡ Tech Explorer
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/GOKULIT">
-    <img src="https://img.shields.io/badge/GitHub-GOKULIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gokul-s-1a6201385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gokul%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Gokul%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
 
----
+<br>
 
-## 🚀 About Me
+<a href="https://github.com/GOKULIT">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Developer;React+%7C+Node.js+%7C+Python+%7C+PHP;Flask+%7C+FastAPI+%7C+Laravel;AI+%7C+Automation+%7C+APIs;Building+Ideas+into+Real+Applications" alt="Typing SVG"/>
+</a>
 
-I'm a passionate **Senior Full-Stack Developer** focused on building modern web applications, backend systems, APIs, and AI-powered solutions.
+<br><br>
 
-I enjoy turning ideas into **scalable, practical, and user-friendly applications** while continuously exploring new technologies in AI, automation, and cloud development.
+<a href="https://github.com/GOKULIT">
+<img src="https://img.shields.io/badge/GitHub-GOKULIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gokul-s-1a6201385/">
+<img src="https://img.shields.io/badge/LinkedIn-Gokul%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* 💻 Full-Stack Web Development
-* ⚛️ React.js & Node.js Development
-* 🐍 Python Development with Flask & FastAPI
-* 🐘 PHP & Laravel Development
-* ☕ Java Development
-* 🤖 AI-Powered Application Development
-* 🔌 API Development & Integration
-* 🗄️ Database Design & Development
-* ⚡ Automation & AI-Assisted Development
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GOKULIT&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 💼 What I Do
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+```javascript
+const gokul = {
+    role: "Senior Full-Stack Developer",
+    focus: [
+        "Full-Stack Development",
+        "AI-Powered Applications",
+        "API Development",
+        "Automation"
+    ],
+
+    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+    backend: ["Node.js", "Python", "Flask", "FastAPI", "PHP", "Laravel"],
+    databases: ["MySQL", "MongoDB", "SQLite", "PostgreSQL", "Firebase"],
+
+    currentlyExploring: [
+        "Artificial Intelligence",
+        "Prompt Engineering",
+        "AI-Assisted Development",
+        "Cloud Technologies",
+        "SaaS Architecture"
+    ],
+
+    mindset: "Build → Learn → Improve → Repeat 🚀"
+};
+```
+
+I'm a **Senior Full-Stack Developer** passionate about creating modern, scalable, and practical software solutions.
+
+My work combines **web development, backend engineering, APIs, databases, AI, and automation** to transform ideas into real-world applications.
+
+---
+
+# 🚀 What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🌐 Development
+### 🌐
 
-* Full-Stack Web Applications
-* React.js Applications
-* Node.js Backend Systems
-* Python Applications
-* PHP & Laravel Applications
-* REST API Development
+### Web Apps
+
+React, Node.js, PHP & Laravel applications
 
 </td>
-<td width="50%">
 
-### 🚀 Solutions
+<td align="center" width="25%">
 
-* SaaS Applications
-* E-Commerce Platforms
-* Database Architecture
-* AI Integration
-* Automation Systems
-* Firebase Applications
+### 🔌
+
+### APIs
+
+REST APIs, integrations & backend systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+### AI Apps
+
+AI-powered tools & intelligent workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+### Automation
+
+Automated & intelligent business solutions
 
 </td>
 </tr>
@@ -64,136 +112,179 @@ I enjoy turning ideas into **scalable, practical, and user-friendly applications
 
 ---
 
-# 🛠️ Tech Stack
+# 🧰 Tech Stack
 
-## 🖥️ Programming Languages
+## 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,javascript" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,php,javascript" />
+
 </p>
 
 ---
 
-## 🌐 Frontend Development
+## 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+
 </p>
 
 ---
 
-## ⚡ Backend & Frameworks
+## ⚙️ Backend & Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,php,laravel" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,laravel" />
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/CodeIgniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/CodeIgniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🗄️ Databases & Backend Services
+## 🗄️ Databases & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase" />
+
 </p>
 
 ---
 
 ## 🤖 AI & Automation
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </p>
 
-**Areas of Interest**
+### Areas
 
-* 🤖 AI-Assisted Programming
 * 🧠 Prompt Engineering
+* 🤖 AI-Assisted Programming
 * 🔌 AI API Integration
 * ⚡ Intelligent Automation
-* 🌐 AI-Powered Web Applications
+* 🌐 AI-Powered Applications
 
 ---
 
-## 🛠️ Development Tools
+## 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
 </p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GOKULIT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULIT&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULIT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
 # 🌱 Currently Exploring
 
-<table>
+<table align="center">
+
 <tr>
-<td>🤖 Artificial Intelligence</td>
-<td>🧠 Prompt Engineering</td>
+<td align="center">🤖<br><b>Artificial Intelligence</b></td>
+<td align="center">🧠<br><b>Prompt Engineering</b></td>
+<td align="center">⚡<br><b>AI Development</b></td>
 </tr>
+
 <tr>
-<td>⚡ AI-Assisted Development</td>
-<td>🔄 Automation</td>
+<td align="center">🔄<br><b>Automation</b></td>
+<td align="center">☁️<br><b>Cloud Technologies</b></td>
+<td align="center">🚀<br><b>SaaS Architecture</b></td>
 </tr>
+
 <tr>
-<td>☁️ Cloud Technologies</td>
-<td>🚀 SaaS Development</td>
+<td align="center">🔌<br><b>API Integration</b></td>
+<td align="center">🔥<br><b>Firebase</b></td>
+<td align="center">📈<br><b>Scalable Systems</b></td>
 </tr>
-<tr>
-<td>🔌 API Integration</td>
-<td>🔥 Firebase Development</td>
-</tr>
+
 </table>
 
 ---
 
-# 📊 GitHub
+# 💡 Development Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOKULIT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULIT&theme=tokyonight&hide_border=true" />
-</p>
+### **"Don't just write code. Build solutions."**
+
+<br>
+
+**Think → Design → Develop → Test → Deploy → Improve**
+
+</div>
 
 ---
 
-# 📬 Connect With Me
+# 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/GOKULIT">
-<img src="https://img.shields.io/badge/GitHub-GOKULIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gokul-s-1a6201385/">
-<img src="https://img.shields.io/badge/LinkedIn-Gokul%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
+<div align="center">
 
-### 💻 Code  •  🤖 AI  •  ⚡ Automate  •  🚀 Build
+### 🚀 Build Something Amazing
 
-**Building technology. Solving problems. Creating impact.**
+💻 **Code**   •   🤖 **AI**   •   ⚡ **Automate**   •   🌐 **Innovate**
 
-</p>
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GOKULIT&label=PROFILE%20VIEWS&style=for-the-badge" />
-</p>
-
-<p align="center">
-  ⭐ <b>If you find my work interesting, consider starring my repositories!</b>
-</p>
+</div>
