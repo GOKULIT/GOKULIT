@@ -110,17 +110,6 @@ I'm a passionate **Senior Full-Stack Developer** with experience in building mod
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOKULIT&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULIT&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
