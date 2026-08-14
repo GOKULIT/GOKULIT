@@ -98,40 +98,6 @@ I'm a passionate **Senior Full-Stack Developer** with experience in building mod
 
 ---
 
-## 📦 Featured Projects
-
-### 💰 Expense Tracker
-
-A full-stack expense management application for tracking income and expenses with categories, dashboards, charts, authentication and data management.
-
-**Technologies:** PHP, MySQL, JavaScript, Bootstrap, Chart.js
-
----
-
-### 🛒 E-Commerce Bookstore
-
-A modern e-commerce application with product management, shopping cart, authentication and online payment integration.
-
-**Technologies:** React.js, Node.js, MongoDB, Razorpay
-
----
-
-### 🎂 Birthday Reminder
-
-A web application for managing contacts and birthday reminders.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
-
----
-
-### 🤖 AI-Powered Applications
-
-Building applications with AI APIs, automation workflows and intelligent features to solve real-world problems.
-
-**Technologies:** Python, Flask, FastAPI, React.js, Node.js
-
----
-
 ## 🌱 Currently Exploring
 
 * 🤖 Artificial Intelligence
